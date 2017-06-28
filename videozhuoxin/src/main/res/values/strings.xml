@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">VideoZhuoxin</string>
+
+    <string name="app_name">美拍</string>
+    <string name="item_travel">宠物</string>
+    <string name="item_fun">搞笑</string>
+    <string name="item_stars">明星</string>
+
 </resources>

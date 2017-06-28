@@ -36,6 +36,18 @@ public class VideoInfo {
     private int comments_count;//评论数
     private int likes_count;//点赞数
 
+    public VideoInfo(String id, String url, String cover_pic, String screen_name, String caption, String avater, int plays_count, int comments_count, int likes_count) {
+
+        this.id = id;
+        this.url = url;
+        this.cover_pic = cover_pic;
+        this.screen_name = screen_name;
+        this.caption = caption;
+        this.avater = avater;
+        this.plays_count = plays_count;
+        this.comments_count = comments_count;
+        this.likes_count = likes_count;
+    }
 
     @Override
     public String toString() {

@@ -4,11 +4,13 @@ import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.AsyncTask;
+import android.util.Log;
 import android.util.LruCache;
 import android.widget.ImageView;
 
 
 import com.syuan.https.HttpsRequest;
+import com.syuan.videozx.R;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -26,7 +28,7 @@ public class LoadImage {
     private static LruCache<String, Bitmap> lruCache = new LruCache<String, Bitmap>(1024 * 1024 * 3) {
         @Override
         protected int sizeOf(String key, Bitmap value) {
-            return super.sizeOf(key, value);
+            return value.getByteCount();
         }
     };
 
@@ -57,6 +59,10 @@ public class LoadImage {
             }
         } else {
             imageView.setImageBitmap(bitmap);
+            return;
+        }
+        if (url==null){
+            imageView.setImageResource(R.mipmap.ic_launcher);
             return;
         }
         //开启异步任务，网络下载头像
@@ -91,7 +97,7 @@ public class LoadImage {
             //输出流
             try {
                 OutputStream outputStream = new FileOutputStream(new File(file, fileName));
-                bitmap.compress(Bitmap.CompressFormat.PNG, 30, outputStream);//压缩图片到某位置，100表示不压缩
+                bitmap.compress(Bitmap.CompressFormat.PNG, 100, outputStream);//压缩图片到某位置，100表示不压缩
                 inputStream.close();
                 outputStream.close();
             } catch (FileNotFoundException e) {
@@ -100,12 +106,12 @@ public class LoadImage {
                 e.printStackTrace();
             }
 
+
             return bitmap;
         }
 
         @Override
         protected void onPostExecute(Bitmap bitmap) {
-            super.onPostExecute(bitmap);
             if (imageView != null) {
                 imageView.setImageBitmap(bitmap);
             }
