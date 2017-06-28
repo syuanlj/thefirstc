@@ -17,23 +17,20 @@
         android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
         app:popupTheme="@style/ThemeOverlay.AppCompat.ActionBar"
         app:title="@string/item_fun"
-        app:titleTextColor="#FFF">
+        app:titleTextColor="#FFF"/>
 
+    <!--<VideoView-->
+        <!--android:id="@+id/header_vivi"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="200dp"-->
+        <!--android:layout_gravity="center_horizontal"-->
+        <!--android:clickable="true"/>-->
 
-    </android.support.v7.widget.Toolbar>
-
-    <VideoView
-        android:id="@+id/header_vivi"
-        android:clickable="true"
-        android:layout_width="match_parent"
-        android:layout_height="200dp"/>
-
+    <include layout="@layout/activity_video_test"/>
     <android.support.v7.widget.RecyclerView
         android:id="@+id/rcv_main"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
-
-    </android.support.v7.widget.RecyclerView>
+        android:layout_height="match_parent"/>
 
 
 </LinearLayout>

@@ -26,11 +26,6 @@ import java.util.List;
 public class VideoAdapter extends RecyclerView.Adapter<VideoAdapter.MyViewHolder> {
     private List<VideoInfo> list;
     private Context context;
-    private View mHeaderView;//头视图
-    private View mFooterView;//脚视图
-
-
-
 
     public VideoAdapter(Context context) {
         this.context = context;
@@ -70,6 +65,10 @@ public class VideoAdapter extends RecyclerView.Adapter<VideoAdapter.MyViewHolder
             VideoInfo info = list.get(position );
 //                holder.iv_pic.setImageResource(R.mipmap.ic_launcher);
             holder.tv_caption.setText(info.getCaption());
+            holder.tv_like.setText("like:"+info.getLikes_count());
+            holder.tv_comment.setText("comment:"+info.getComments_count());
+            holder.tv_play.setText("play:"+info.getPlays_count());
+            LoadImage.loadImage(context, info.getAvater(), holder.iv_avatar);
             LoadImage.loadImage(context, info.getCover_pic(), holder.iv_pic);
 //            int width = holder.iv_pic.getWidth();
 //            ViewGroup.LayoutParams params = holder.iv_pic.getLayoutParams();
@@ -94,7 +93,11 @@ public class VideoAdapter extends RecyclerView.Adapter<VideoAdapter.MyViewHolder
             super(itemView);
 
             iv_pic = (ImageView) itemView.findViewById(R.id.iv_item_pic);
+            iv_avatar= (ImageView) itemView.findViewById(R.id.iv_item_avatar);
             tv_caption = (TextView) itemView.findViewById(R.id.tv_item_caption);
+            tv_play= (TextView) itemView.findViewById(R.id.tv_play);
+            tv_comment= (TextView) itemView.findViewById(R.id.tv_item_comment);
+            tv_like= (TextView) itemView.findViewById(R.id.tv_item_like);
 
 //            int width=iv_pic.getWidth();
 //            ViewGroup.LayoutParams params=iv_pic.getLayoutParams();
