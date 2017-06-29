@@ -3,12 +3,14 @@ package com.syuan.adapter;
 
 import android.content.Context;
 import android.graphics.Bitmap;
+import android.graphics.Paint;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
@@ -65,11 +67,16 @@ public class VideoAdapter extends RecyclerView.Adapter<VideoAdapter.MyViewHolder
             VideoInfo info = list.get(position );
 //                holder.iv_pic.setImageResource(R.mipmap.ic_launcher);
             holder.tv_caption.setText(info.getCaption());
+            holder.tv_name.setText(info.getScreen_name());
+            holder.tv_name.getPaint().setFlags(Paint.UNDERLINE_TEXT_FLAG);//设置下滑划线
             holder.tv_like.setText("like:"+info.getLikes_count());
             holder.tv_comment.setText("comment:"+info.getComments_count());
             holder.tv_play.setText("play:"+info.getPlays_count());
             LoadImage.loadImage(context, info.getAvater(), holder.iv_avatar);
             LoadImage.loadImage(context, info.getCover_pic(), holder.iv_pic);
+            ViewGroup.LayoutParams layoutParams=holder.itemView.getLayoutParams();
+            layoutParams.height= LinearLayout.LayoutParams.WRAP_CONTENT;
+//            holder.iv_pic.setAdjustViewBounds(true);
 //            int width = holder.iv_pic.getWidth();
 //            ViewGroup.LayoutParams params = holder.iv_pic.getLayoutParams();
 //            //设置图片的相对于屏幕的宽高比
@@ -87,7 +94,7 @@ public class VideoAdapter extends RecyclerView.Adapter<VideoAdapter.MyViewHolder
     //viewhold优化
     public class MyViewHolder extends RecyclerView.ViewHolder {
         public ImageView iv_pic,iv_avatar;
-        public TextView tv_caption,tv_play,tv_comment,tv_like;
+        public TextView tv_caption,tv_play,tv_comment,tv_like,tv_name;
 
         public MyViewHolder(View itemView) {
             super(itemView);
@@ -95,6 +102,7 @@ public class VideoAdapter extends RecyclerView.Adapter<VideoAdapter.MyViewHolder
             iv_pic = (ImageView) itemView.findViewById(R.id.iv_item_pic);
             iv_avatar= (ImageView) itemView.findViewById(R.id.iv_item_avatar);
             tv_caption = (TextView) itemView.findViewById(R.id.tv_item_caption);
+            tv_name= (TextView) itemView.findViewById(R.id.tv_item_name);
             tv_play= (TextView) itemView.findViewById(R.id.tv_play);
             tv_comment= (TextView) itemView.findViewById(R.id.tv_item_comment);
             tv_like= (TextView) itemView.findViewById(R.id.tv_item_like);

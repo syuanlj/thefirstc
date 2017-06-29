@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_travel"
+        android:orderInCategory="100"
+        android:title="@string/item_travel"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_fun"
+        android:orderInCategory="100"
+        android:title="@string/item_fun"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_stars"
+        android:orderInCategory="100"
+        android:title="@string/item_stars"
+        app:showAsAction="never" />
+
+</menu>

@@ -2,13 +2,16 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
               android:layout_width="wrap_content"
               android:layout_height="wrap_content"
-              android:background="#FFF"
-              android:orientation="vertical">
+              android:background="@drawable/item"
+              android:orientation="vertical"
+              android:padding="10dp">
+
 
     <ImageView
         android:id="@+id/iv_item_pic"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
         android:adjustViewBounds="true"
         android:scaleType="centerCrop"
         android:src="@mipmap/ic_launcher"/>
@@ -26,38 +29,40 @@
             android:scaleType="centerCrop"/>
 
         <TextView
-            android:id="@+id/tv_item_caption"
+            android:id="@+id/tv_item_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textColor="@color/black"
             android:ellipsize="end"
-            android:lines="2"/>
+            android:lines="1"
+            android:textColor="@color/black"/>
     </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_item_caption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:maxLines="5"
+        android:textColor="@color/black"/>
 
     <TextView
         android:id="@+id/tv_play"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ellipsize="end"
-        android:lines="1"
+        android:layout_height="20dp"
         android:text="play:"
         />
 
     <TextView
         android:id="@+id/tv_item_comment"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ellipsize="end"
-        android:lines="1"
+        android:layout_height="20dp"
         android:text="comment:"
         />
 
     <TextView
         android:id="@+id/tv_item_like"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ellipsize="end"
-        android:lines="1"
+        android:layout_height="20dp"
         android:text="like:"
         />
 </LinearLayout>
