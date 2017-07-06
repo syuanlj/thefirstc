@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context="com.shenyuan.mytest.testactivity.MySharePerferenceActivity">
+
+    <EditText
+        android:id="@+id/et_name"
+        android:hint="用户名"
+        style="@style/edittext"/>
+    <EditText
+        android:id="@+id/et_password"
+        android:hint="密码"
+        style="@style/edittext"/>
+    <Button
+        android:id="@+id/sp_bt"
+        android:layout_marginTop="20dp"
+        android:text="这只是一个按钮"
+        android:background="@drawable/button"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"/>
+
+    <TextView
+        android:id="@+id/sp_tv"
+        android:layout_marginTop="30dp"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

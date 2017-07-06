@@ -1,0 +1,38 @@
+1.ViewPager+RadioGroup+SharedPreferences实现第引导界面
+2.Animation动画
+3.主界面:自定义View，实现加速圆
+
+4.设置界面ScrollView + 通知:Notification
+
+5.手机加速:
+(1)获得数据;获得手机系统进程.大于21版本：AndroidAppProcess; 小于21版本：RunningAppProcessInfo;
+(2).手机加速页面展示:ListView及其优化
+
+6.软件管理:一级界面:自定义View实现两个扇形圆转动 + ProgressBar
+7.软件管理二级界面:
+(1).getInstalledPackages获得手机上的软件。所有软件=系统软件+用户软件。ApplicationInfo.FLAG_SYSTEM表示系统软件
+(2).Intent带参数的跳转，区分 所有/系统/用户 软件;
+(3).Intent设置Action卸载程序;
+(4).利用广播接受程序被卸载的消息，并刷新页面
+
+8.手机检测:ProgressBar + View 实现电池展示效果
+(1).ProgressBar + View 实现电池展示效果
+(2).广播接受电池的信息
+(3).AlertDialog展示电池的详细信息
+(4).通过系统Build类获得手机信息
+
+9.通讯大全:
+(1).输入输出流将assets的文件写入程序
+(2).数据库的增删改查
+(3).Intent设置Action拨打电话
+
+10.文件管理:
+(1).异步任务+接口
+(2).递归
+(3).回传数据的跳转startActivityForResult
+(4).文件管理二级界面setResult回传数据
+
+11.垃圾清理:
+(1).递归获得文件
+(2).线程中使用runOnUiThread修改界面
+(3).文件的delete方法删除垃圾文件
