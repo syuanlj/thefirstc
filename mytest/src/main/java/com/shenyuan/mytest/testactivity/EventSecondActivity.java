@@ -23,7 +23,10 @@ public class EventSecondActivity extends AppCompatActivity {
 
     @OnClick(R.id.bt_event_second)
     public void onViewClicked() {
+//        startActivity(new Intent(this,EventBusActivity.class));
         EventBus.getDefault().post(new Messge("hello!"));
-        startActivity(new Intent(this,EventBusActivity.class));
+        finish();
+
     }
+
 }

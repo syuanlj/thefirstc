@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.shenyuan.mytest">
 
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -18,13 +20,30 @@
         <!-- <activity android:name=".testactivity.MySharePerferenceActivity"> -->
         <!-- </activity> -->
         <activity android:name=".testactivity.EventBusActivity">
+        </activity>
+        <activity android:name=".testactivity.EventSecondActivity">
+        </activity>
+        <activity android:name=".testactivity.CameraAlbumActivity">
+        </activity>
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.example.cameraalbumtest.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths"/>
+        </provider>
+
+        <activity android:name=".testactivity.SendMessageActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".testactivity.EventSecondActivity">
+        <activity android:name=".testactivity.Test2Activity">
         </activity>
     </application>
 

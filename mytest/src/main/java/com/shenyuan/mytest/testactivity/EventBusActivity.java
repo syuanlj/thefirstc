@@ -37,6 +37,7 @@ public class EventBusActivity extends AppCompatActivity {
     @OnClick(R.id.bt_event)
     public void onViewClicked() {
         startActivity(new Intent(this,EventSecondActivity.class));
+//        finish();
     }
 
     @Subscribe(threadMode = ThreadMode.MAIN)
@@ -50,6 +51,7 @@ public class EventBusActivity extends AppCompatActivity {
         super.onDestroy();
         //反注册
         EventBus.getDefault().unregister(this);
+        //解绑
         n.unbind();
     }
 }

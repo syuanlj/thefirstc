@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/iv_test_adapter"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@mipmap/qq_1"/>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/tv_test_adapter"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:text="打印测试"/>
+            <TextView
+                android:id="@+id/tv2_test_adapter"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:textStyle="bold|italic"
+                android:gravity="center"
+                android:text="打印测试"/>
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>
