@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:2:1-85:12
+	package
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:8:5-69
+	android:name
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:8:22-66
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:10:5-84
+	android:name
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:10:22-81
+uses-permission#android.permission.CAMERA
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:15:22-77
+uses-sdk
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:17:5-19:41
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\官送\.android\build-cache\42e77bd6f366aad0b71a00c2f036a27f7fd1aca4\output\AndroidManifest.xml:16:5-42
+	android:targetSdkVersion
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:19:9-38
+		INJECTED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:18:9-35
+		INJECTED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml
+application
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:21:5-83:19
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\官送\.android\build-cache\42e77bd6f366aad0b71a00c2f036a27f7fd1aca4\output\AndroidManifest.xml:17:5-19
+	android:label
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:24:9-41
+	android:allowBackup
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:22:9-35
+	android:icon
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:23:9-45
+	android:theme
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:25:9-40
+activity#com.feicui.activity.MainActivity
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:26:9-29:20
+	android:label
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:27:13-41
+activity#com.feicui.activity.LeadActivity
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:30:9-36:20
+	android:name
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:30:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:34:27-74
+activity#com.feicui.activity.LogoActivity
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:37:9-38:20
+	android:name
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:37:19-47
+activity#com.feicui.activity.AboutUsActivity
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:39:9-42:20
+	android:label
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:41:13-60
+	android:name
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:40:13-44
+activity#com.feicui.activity.SettingActivity
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:43:9-46:20
+	android:label
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:45:13-59
+	android:name
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:44:13-44
+activity#com.feicui.activity.TelManagerActivity
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:47:9-50:20
+	android:label
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:49:13-63
+	android:name
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:48:13-47
+activity#com.feicui.activity.TelListActivity
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:51:9-54:20
+	android:label
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:53:13-60
+	android:name
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:52:13-44
+activity#com.feicui.activity.SpeedUpActivity
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:55:9-58:20
+	android:label
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:57:13-60
+	android:name
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:56:13-44
+activity#com.feicui.activity.SoftManagerActivity
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:59:9-62:20
+	android:label
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:61:13-64
+	android:name
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:60:13-48
+activity#com.feicui.activity.SoftListActivity
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:63:9-66:20
+	android:label
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:65:13-61
+	android:name
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:64:13-45
+activity#com.feicui.activity.PhoneCheckActivity
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:67:9-70:20
+	android:label
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:69:13-63
+	android:name
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:68:13-47
+activity#com.feicui.activity.FileManagerActivity
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:71:9-74:20
+	android:label
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:73:13-64
+	android:name
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:72:13-48
+activity#com.feicui.activity.FileListActivity
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:75:9-78:20
+	android:label
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:77:13-61
+	android:name
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:76:13-45
+activity#com.feicui.activity.ClearActivity
+ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:79:9-82:20
+	android:label
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:81:13-57
+	android:name
+		ADDED from E:\Android Studio\workspace\手机管家\src\main\AndroidManifest.xml:80:13-42

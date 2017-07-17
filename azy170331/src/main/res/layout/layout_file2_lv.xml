@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_file2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="horizontal">
+
+    <CheckBox
+        android:id="@+id/file2_cb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:focusable="false"/>
+
+    <ImageView
+        android:id="@+id/file2_im_icon"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="10dp"
+        android:src="@mipmap/azy" />
+
+    <LinearLayout
+        android:id="@+id/ll_file2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/file2_tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:ellipsize="end"
+            android:gravity="top"
+            android:lines="1"
+            android:text="1111111111"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/file2_tv_date"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:ellipsize="end"
+            android:gravity="bottom"
+            android:text="1111111111"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/file2_tv_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0.00B" />
+
+</LinearLayout>

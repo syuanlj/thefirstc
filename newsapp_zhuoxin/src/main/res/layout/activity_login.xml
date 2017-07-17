@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.syuan.myapplication.activity.LoginActivity">
+
+    <com.syuan.myapplication.view.TitleBarView
+        android:id="@+id/login_title"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <EditText
+        android:id="@+id/login_et_name"
+        style="@style/RegisterET"
+        android:hint="@string/name" />
+
+    <EditText
+        android:id="@+id/login_et_password"
+        style="@style/RegisterET"
+        android:password="true"
+        android:hint="@string/password" />
+
+    <Button
+        android:id="@+id/login_bt"
+        style="@style/RegisterET"
+        android:background="@color/red"
+        android:text="@string/login_bt"
+        android:textColor="@color/white" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+        <Button
+            android:id="@+id/login_bt_forget"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:background="@color/red"
+            android:text="@string/login_forget"
+            android:textColor="@color/white"/>
+        <View
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_weight="1"/>
+        <Button
+            android:id="@+id/login_bt_reg"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@color/red"
+            android:text="@string/reg_bt"
+            android:textColor="@color/white"/>
+    </LinearLayout>
+</LinearLayout>

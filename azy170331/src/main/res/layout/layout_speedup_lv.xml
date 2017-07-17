@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+   <CheckBox
+       android:id="@+id/speedup_adp_cb"
+       android:layout_marginTop="30dp"
+       android:layout_marginRight="10dp"
+       android:layout_marginLeft="20dp"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content" />
+    <ImageView
+        android:id="@+id/speedup_im_icon"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="10dp"
+        android:layout_toRightOf="@id/speedup_adp_cb"
+        android:src="@mipmap/azy" />
+
+    <TextView
+        android:id="@+id/speedup_tv_info"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_alignTop="@id/speedup_im_icon"
+        android:layout_toRightOf="@id/speedup_im_icon"
+        android:ellipsize="end"
+        android:gravity="top"
+        android:text="1111111111"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/speedup_tv_msg"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_alignBottom="@id/speedup_im_icon"
+        android:layout_toRightOf="@id/speedup_im_icon"
+        android:ellipsize="end"
+        android:gravity="bottom"
+        android:text="1111111111"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/speedup_tv_system"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/speedup_im_icon"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="5dp"
+        android:text="系统进程" />
+
+</RelativeLayout>

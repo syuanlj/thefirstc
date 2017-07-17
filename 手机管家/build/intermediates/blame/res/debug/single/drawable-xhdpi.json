@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_info_icon_camera.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-xhdpi\\setting_info_icon_camera.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_info_icon_root.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-xhdpi\\setting_info_icon_root.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\notification_information_progress_bg.9.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-xhdpi\\notification_information_progress_bg.9.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_info_icon_space.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-xhdpi\\setting_info_icon_space.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\notification_information_progress_yellow.9.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-xhdpi\\notification_information_progress_yellow.9.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\notification_information_progress_green.9.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-xhdpi\\notification_information_progress_green.9.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_info_icon_cpu.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-xhdpi\\setting_info_icon_cpu.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_info_icon_version.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-xhdpi\\setting_info_icon_version.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\notification_information_progress_red.9.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-xhdpi\\notification_information_progress_red.9.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_score_normal_bg.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-xhdpi\\home_score_normal_bg.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_check_progress_bg.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-xhdpi\\ic_check_progress_bg.png"
+    }
+]

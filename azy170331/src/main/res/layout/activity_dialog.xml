@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.Syuan.azy170331.activitis.test.DialogActivity">
+
+    <TextView
+        android:id="@+id/test_tv_dialog_alert"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:background="#08f"
+        android:gravity="center"
+        android:text="创建AlertDialog对话框"/>
+    <TextView
+        android:id="@+id/test_tv_dialog_progress"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:background="#08f"
+        android:gravity="center"
+        android:text="创建Progress对话框"/>
+
+</LinearLayout>

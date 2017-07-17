@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\phone.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-xxhdpi\\phone.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

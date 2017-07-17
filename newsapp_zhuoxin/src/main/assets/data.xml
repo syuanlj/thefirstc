@@ -1,0 +1,22 @@
+<apps>
+	<app>
+		<id>1</id>
+		<name>陆智超小组</name>
+		<score>47</score>
+	</app>
+	<app>
+		<id>2</id>
+		<name>邹景康小组</name>
+		<score>40</score>
+	</app>
+	<app>
+		<id>3</id>
+		<name>江章谱小组</name>
+		<score>26</score>
+	</app>
+	<app>
+		<id>4</id>
+		<name>朱珂阳小组</name>
+		<score>33</score>
+	</app>
+</apps>

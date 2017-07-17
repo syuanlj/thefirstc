@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.syuan.myapplication.view.TitleBarView
+        android:id="@+id/tbv_comment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <com.syuan.myapplication.view.slidingmenu.xlistview.XListView
+        android:id="@+id/xlv_comment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+    <LinearLayout
+        android:id="@+id/ll_comment"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:paddingTop="5dp"
+        android:orientation="horizontal"
+        android:layout_marginBottom="5dp">
+        <EditText
+            android:id="@+id/et_comment"
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:paddingLeft="5dp"
+            android:hint="@string/send_text"
+            android:textColorHint="@color/hintcolor"
+            android:background="@drawable/shape_edit_send"
+            android:layout_weight="1"/>
+        <ImageView
+            android:id="@+id/iv_send_comment"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:clickable="true"
+            android:src="@mipmap/send"/>
+    </LinearLayout>
+</LinearLayout>

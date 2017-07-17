@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:\Android Studio\Android Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/azy170331" />
+            <option value="$PROJECT_DIR$/baidulocal" />
+            <option value="$PROJECT_DIR$/baidumap" />
+            <option value="$PROJECT_DIR$/butterknife" />
+            <option value="$PROJECT_DIR$/demotoolbar" />
+            <option value="$PROJECT_DIR$/easyshop" />
+            <option value="$PROJECT_DIR$/hellogirl" />
+            <option value="$PROJECT_DIR$/login170327_2" />
+            <option value="$PROJECT_DIR$/mvp_20170628" />
+            <option value="$PROJECT_DIR$/mysqlite" />
+            <option value="$PROJECT_DIR$/mytest" />
+            <option value="$PROJECT_DIR$/newsapp_zhuoxin" />
+            <option value="$PROJECT_DIR$/testservice" />
+            <option value="$PROJECT_DIR$/videozhuoxin" />
+            <option value="$PROJECT_DIR$/weixinface" />
+            <option value="$PROJECT_DIR$/wintersweet170329" />
+            <option value="$PROJECT_DIR$/yitao_zhuoxin" />
+            <option value="$PROJECT_DIR$/手机管家" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

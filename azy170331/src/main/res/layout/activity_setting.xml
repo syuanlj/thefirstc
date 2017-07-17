@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.Syuan.azy170331.activitis.activitis.SettingActivity">
+
+    <com.Syuan.azy170331.activitis.view.TitleBarView
+        android:id="@+id/tbv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </com.Syuan.azy170331.activitis.view.TitleBarView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center_vertical">
+
+                <TextView
+                    android:id="@+id/tv_setting_start"
+                    style="@style/setting_textview"
+                    android:text="@string/setting_start" />
+
+                <ToggleButton
+                    android:id="@+id/tb_setting_start"
+                    style="@style/setting_togglebutton"
+                    android:layout_alignBaseline="@id/tv_setting_start" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center_vertical">
+
+                <TextView
+                    android:id="@+id/tv_notification_manager"
+                    style="@style/setting_textview"
+                    android:text="@string/setting_notification_manager" />
+
+                <ToggleButton
+                    android:id="@+id/tb_setting_notification_manager"
+                    style="@style/setting_togglebutton"
+                    android:layout_alignBaseline="@id/tv_notification_manager" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center_vertical">
+
+                <TextView
+                    android:id="@+id/tv_push_notification"
+                    style="@style/setting_textview"
+                    android:text="@string/setting_push_notification" />
+
+                <ToggleButton
+                    android:id="@+id/tb_setting_push_notification"
+                    style="@style/setting_togglebutton"
+                    android:layout_alignBaseline="@id/tv_push_notification" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_help_set"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center_vertical">
+
+                <TextView
+                    android:id="@+id/tv_helptext"
+                    style="@style/setting_textview"
+                    android:text="@string/setting_helptext" />
+
+                <ToggleButton
+                    android:id="@+id/setting_helptext"
+                    style="@style/setting_togglebutton_2"
+                    android:layout_alignBaseline="@id/tv_helptext" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_suggestion_set"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center_vertical">
+
+                <TextView
+                    android:id="@+id/tv_suggestions"
+                    style="@style/setting_textview"
+                    android:text="@string/setting_suggestions" />
+
+                <ToggleButton
+                    android:id="@+id/setting_suggestions"
+                    style="@style/setting_togglebutton_2"
+                    android:layout_alignBaseline="@id/tv_suggestions" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_share_set"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center_vertical">
+
+                <TextView
+                    android:id="@+id/tv_friends_share"
+                    style="@style/setting_textview"
+                    android:text="@string/setting_friends_share" />
+
+                <ToggleButton
+                    android:id="@+id/setting_friends_share"
+                    style="@style/setting_togglebutton_2"
+                    android:layout_alignBaseline="@id/tv_friends_share" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_update_set"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center_vertical">
+
+                <TextView
+                    android:id="@+id/tv_updates"
+                    style="@style/setting_textview"
+                    android:text="@string/setting_updates" />
+
+                <ToggleButton
+                    android:id="@+id/setting_updates"
+                    style="@style/setting_togglebutton_2"
+                    android:layout_alignBaseline="@id/tv_updates" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_about_set"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center_vertical">
+
+                <TextView
+                    android:id="@+id/tv_about_us"
+                    style="@style/setting_textview"
+                    android:text="@string/setting_about_us" />
+
+                <ToggleButton
+                    android:id="@+id/setting_about_us"
+                    style="@style/setting_togglebutton_2"
+                    android:layout_alignBaseline="@id/tv_about_us" />
+            </RelativeLayout>
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\menu\\phone_check.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\menu\\phone_check.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\menu\\about_us.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\menu\\about_us.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\menu\\speed_up.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\menu\\speed_up.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\menu\\file_manager.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\menu\\file_manager.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\menu\\file_list.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\menu\\file_list.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\menu\\setting.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\menu\\setting.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\menu\\soft_list.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\menu\\soft_list.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\menu\\logo.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\menu\\logo.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\menu\\soft_manager.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\menu\\soft_manager.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\menu\\tel_list.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\menu\\tel_list.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\menu\\lead.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\menu\\lead.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\menu\\tel_manager.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\menu\\tel_manager.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\menu\\clear.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\menu\\clear.xml"
+    }
+]

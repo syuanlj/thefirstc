@@ -1,0 +1,2 @@
+include ':app', ':login170327_2', ':wintersweet170329', ':weixinface',  ':azy170331', ':hellogirl', ':newsapp_zhuoxin', ':mysqlite', ':testservice', ':baidulocal', ':butterknife', ':videozhuoxin', ':yitao_zhuoxin', ':demotoolbar', ':mytest', ':baidumap', 'mvp_20170628', 'easyshop'
+include ':手机管家'

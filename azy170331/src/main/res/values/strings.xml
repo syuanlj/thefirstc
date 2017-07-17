@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Azy170331</string>
+    <string name="title_activity_logo">LogoActivity</string>
+
+    <string name="main_speedup">手机加速</string>
+    <string name="main_softmgr">软件管理</string>
+    <string name="main_phonemgr">手机检测</string>
+    <string name="main_telmgr">通信大全</string>
+    <string name="main_filemgr">文件管理</string>
+    <string name="main_sdclean">垃圾清理</string>
+
+    <string name="setting_start">开机启动</string>
+    <string name="setting_notification_manager">通知管理</string>
+    <string name="setting_push_notification">消息推送</string>
+    <string name="setting_helptext">帮助说明</string>
+    <string name="setting_suggestions">意见反馈</string>
+    <string name="setting_friends_share">好友分享</string>
+    <string name="setting_updates">版本更新</string>
+    <string name="setting_about_us">关于我们</string>
+    <string name="space_phone">手机内置空间</string>
+    <string name="space_sdcard">外置存储空间</string>
+</resources>

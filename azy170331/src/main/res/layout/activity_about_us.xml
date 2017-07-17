@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    tools:context="com.Syuan.azy170331.activitis.activitis.AboutUsActivity"
+    >
+
+    <com.Syuan.azy170331.activitis.view.TitleBarView
+        android:id="@+id/tvb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </com.Syuan.azy170331.activitis.view.TitleBarView>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/iv_androidy"
+            android:layout_width="200dp"
+            android:layout_height="100dp"
+            android:src="@mipmap/androidy"
+            android:layout_centerInParent="true"/>
+        <TextView
+            android:id="@+id/tv_AZY"
+            android:layout_below="@id/iv_androidy"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:text="AZY手机管家"/>
+        <TextView
+            android:id="@+id/tv_version_number"
+            android:layout_below="@id/tv_AZY"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:text="V1.0.0" />
+    </RelativeLayout>
+
+</LinearLayout>

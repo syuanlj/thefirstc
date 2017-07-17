@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.syuan.testservice.MainActivity">
+
+   <TextView
+       android:id="@+id/start_service"
+       android:layout_width="match_parent"
+       android:layout_height="100dp"
+       android:layout_marginBottom="1dp"
+       android:background="@color/colorPrimary"
+       android:text="开启服务"
+       android:textSize="40sp"
+       android:textColor="#FFF"
+       android:gravity="center"/>
+    <TextView
+        android:id="@+id/destroy_service"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginBottom="1dp"
+        android:background="@color/colorPrimary"
+        android:text="注销服务"
+        android:textSize="40sp"
+        android:textColor="#FFF"
+        android:gravity="center"/>
+    <TextView
+        android:id="@+id/connection_service"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginBottom="1dp"
+        android:background="@color/colorPrimary"
+        android:text="连接服务"
+        android:textSize="40sp"
+        android:textColor="#FFF"
+        android:gravity="center"/>
+
+</LinearLayout>

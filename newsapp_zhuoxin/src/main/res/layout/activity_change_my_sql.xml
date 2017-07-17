@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.syuan.myapplication.test.ChangeMySQLActivity">
+    <Button
+        android:id="@+id/bt_new_sqlite"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="创建新的数据库"/>
+    <Button
+        android:id="@+id/bt_add_sqlite"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="增加数据"/>
+    <Button
+        android:id="@+id/bt_delete_sqlite"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="删除数据"/>
+    <Button
+        android:id="@+id/bt_change_sqlite"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="更改数据"/>
+    <Button
+        android:id="@+id/bt_search_sqlite"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="查询数据"/>
+</LinearLayout>

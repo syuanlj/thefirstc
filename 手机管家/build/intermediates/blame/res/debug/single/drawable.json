@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_mp3.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_mp3.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_gzip.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_gzip.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_tiff.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_tiff.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_c_h.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_c_h.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_xml.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_xml.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\select_classlist_bg2.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\select_classlist_bg2.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_xls.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_xls.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\shap_classlist_bg3_normal.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\shap_classlist_bg3_normal.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_javascript.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_javascript.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_flash.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_flash.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_float_normal.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\btn_float_normal.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_text_plain.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_text_plain.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_ppt.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_ppt.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_set_togglebutton.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\selector_set_togglebutton.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_wav.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_wav.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\layer_list_clear_progress.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\layer_list_clear_progress.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_jpeg.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_jpeg.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_cpp_h.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_cpp_h.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_xhtml_xml.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_xhtml_xml.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_image.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_image.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_pdf.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_pdf.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_wma.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_wma.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_zip.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_zip.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\check_switch.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\check_switch.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_ico.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_ico.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_file.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_file.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_c.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_c.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\select_classlist_bg1.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\select_classlist_bg1.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_video.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_video.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_archive.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_archive.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\shap_classlist_bg1_pressed.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\shap_classlist_bg1_pressed.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_tar.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_tar.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_rar.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_rar.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_audio.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_audio.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_gif.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_gif.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_folder.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_folder.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_soft_blue.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\shape_soft_blue.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_main_btn.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\selector_main_btn.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_playlist.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_playlist.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_bmp.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_bmp.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_text_richtext.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_text_richtext.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_soft_green.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\shape_soft_green.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_java.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_java.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_main_speed.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\selector_main_speed.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_clear_clear.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\selector_clear_clear.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_clear_togglebutton.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\selector_clear_togglebutton.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_float_pressed.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\btn_float_pressed.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_rotate.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\progressbar_rotate.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_cpp.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_cpp.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\select_classlist_bg3.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\select_classlist_bg3.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_doc.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_doc.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_app.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_app.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_xcf.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_xcf.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\home_entry_item.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\home_entry_item.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\shap_classlist_bg2_normal.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\shap_classlist_bg2_normal.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_html.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_html.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_css.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_css.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_png.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\icon_png.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\shap_classlist_bg1_normal.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\shap_classlist_bg1_normal.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobutton.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable\\radiobutton.xml"
+    }
+]

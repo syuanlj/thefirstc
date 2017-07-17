@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F9F9F9"
+    android:orientation="vertical">
+
+    <com.Syuan.azy170331.activitis.view.ClearView
+        android:id="@+id/cv"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_centerInParent="true" />
+
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_width="243dp"
+        android:layout_height="243dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/selector_speed_up"
+        android:clickable="true" />
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/iv"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="69dp"
+        android:text="100"
+        android:textColor="#000000"
+        android:textSize="70sp" />
+
+    <TextView
+        android:id="@+id/tv_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/tv"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/tv"
+        android:text="%"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/bt_speed_up"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_below="@id/tv"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/selector_button1"
+        android:text="@string/main_speedup"
+        android:textColor="#fff"
+        android:textSize="16sp" />
+
+</RelativeLayout>

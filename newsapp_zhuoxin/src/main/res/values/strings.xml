@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">NewsApp_zhuoxin</string>
+
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="main_title_name">资讯</string>
+
+    <string name="left_menu_news">新闻</string>
+    <string name="left_menu_read">收藏</string>
+    <string name="left_menu_local">本地</string>
+    <string name="left_menu_ties">跟帖</string>
+    <string name="left_menu_pics">图片</string>
+
+    <string name="email">请输入邮箱</string>
+    <string name="name">请输入昵称</string>
+    <string name="password">密码：6到16位，数字和字母的组合</string>
+    <string name="reg_bt">注册</string>
+    <string name="login_bt">登录</string>
+    <string name="login_forget">忘记密码</string>
+    <string name="reg_cb_text">我同意“服务条款”和“网络用户隐私保护和个人信息利用政策”</string>
+
+    <string name="right_menu_login">立刻登录</string>
+    <string name="right_menu_update">版本更新</string>
+
+    <string name="forget_email">输入注册时用的邮箱号</string>
+    <string name="yes">确认</string>
+
+    <string name="user_name">登录名</string>
+    <string name="user_integral">积分：</string>
+    <string name="user_outLogin">退出登录</string>
+
+    <string name="user_adapter_time">登录时间</string>
+    <string name="user_adapter_site">登录地点</string>
+    <string name="user_adapter_way">登录方式</string>
+
+    <string name="camera">拍照</string>
+    <string name="photos">从相册中选择</string>
+
+    <string name="user">用户</string>
+
+    <string name="delete_item">删除该新闻</string>
+    <string name="delete_all">清空收藏</string>
+
+    <string name="send_text">快来评论吧</string>
+
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.syuan.myapplication.view.TitleBarView
+        android:id="@+id/reg_title"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <EditText
+        android:id="@+id/reg_et_email"
+        style="@style/RegisterET"
+        android:hint="@string/email" />
+
+    <EditText
+        android:id="@+id/reg_et_name"
+        style="@style/RegisterET"
+        android:hint="@string/name" />
+
+    <EditText
+        android:id="@+id/reg_et_password"
+        style="@style/RegisterET"
+        android:hint="@string/password" />
+
+    <Button
+        android:id="@+id/reg_bt"
+        style="@style/RegisterET"
+        android:background="@color/red"
+        android:textColor="@color/white"
+        android:text="@string/reg_bt"/>
+    
+    <CheckBox
+        android:id="@+id/reg_cb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:checked="true"
+        android:text="@string/reg_cb_text"/>
+
+</LinearLayout>

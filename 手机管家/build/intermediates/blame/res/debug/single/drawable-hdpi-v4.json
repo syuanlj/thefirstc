@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\adware_style_banner.jpg",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-hdpi\\adware_style_banner.jpg"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\adware_style_applist.jpg",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-hdpi\\adware_style_applist.jpg"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\adware_style_creditswall.jpg",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-hdpi\\adware_style_creditswall.jpg"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_telmgr.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-hdpi\\icon_telmgr.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\check_switch_on.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-hdpi\\check_switch_on.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_rocket.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-hdpi\\icon_rocket.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\adware_style_selected.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-hdpi\\adware_style_selected.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_sdclean.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-hdpi\\icon_sdclean.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_arrows_right.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-hdpi\\ic_arrows_right.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_filemgr.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-hdpi\\icon_filemgr.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_entry_item_normal.9.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-hdpi\\home_entry_item_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_softmgr.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-hdpi\\icon_softmgr.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_phonemgr.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-hdpi\\icon_phonemgr.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_entry_item_pressed.9.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-hdpi\\home_entry_item_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\check_switch_off.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-hdpi\\check_switch_off.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\adware_style_default.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-hdpi\\adware_style_default.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_homeasup_default.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-hdpi\\btn_homeasup_default.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\androidy.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-hdpi\\androidy.png"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_child_configs.png",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\drawable-hdpi\\ic_child_configs.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\anim\\set_main.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\anim\\set_main.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\anim\\set_logo.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\anim\\set_logo.xml"
+    }
+]

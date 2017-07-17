@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.Syuan.azy170331.activitis.activitis.PhoneDetectionActivity">
+
+    <com.Syuan.azy170331.activitis.view.TitleBarView
+        android:id="@+id/tbv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <LinearLayout
+        android:id="@+id/ll"
+        android:layout_below="@id/tbv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ProgressBar
+            android:id="@+id/pb_progressbar"
+            android:layout_below="@id/tbv"
+            style="@android:style/Widget.ProgressBar.Horizontal"
+            android:layout_width="300dp"
+            android:layout_height="100dp"
+            android:max="100"
+            android:progress="50"/>
+        <View
+            android:id="@+id/phone_v"
+            android:layout_width="10dp"
+            android:layout_height="75dp"
+            android:background="#787B78"/>
+        <TextView
+            android:id="@+id/phone_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:text="00%"/>
+    </LinearLayout>
+    <ProgressBar
+        android:id="@+id/pb_progressbar_check"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:indeterminateBehavior="repeat"
+        android:indeterminateDuration="100"
+        android:indeterminateDrawable="@drawable/check_progress_bg"
+        android:visibility="gone"/>
+    <ListView
+        android:id="@+id/lv"
+        android:layout_below="@id/ll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </ListView>
+</RelativeLayout>

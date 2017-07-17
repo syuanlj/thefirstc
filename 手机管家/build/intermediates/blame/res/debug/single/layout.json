@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tel_manager.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\activity_tel_manager.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\item_lv_filelist.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\item_lv_filelist.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lead.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\activity_lead.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about_us.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\title_layout.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\title_layout.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\activity_file_list.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\activity_file_list.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\activity_speed_up.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\activity_speed_up.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\item_lv_softlist.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\item_lv_softlist.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\activity_file_manager.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\activity_file_manager.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clear.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\activity_clear.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\activity_soft_manager.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\activity_soft_manager.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_bottom.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\activity_main_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_center.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\activity_main_center.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tel_list.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\activity_tel_list.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\item_lv_filemanager.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\item_lv_filemanager.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\activity_phone_check.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\activity_phone_check.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\activity_soft_list.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\activity_soft_list.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\item_lv_clearlist.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\item_lv_clearlist.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logo.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\activity_logo.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\item_gridview.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\item_lv_phonemager.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\item_lv_phonemager.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\item_lv_tellist.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\item_lv_tellist.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\item_lv_speedup.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\item_lv_speedup.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\workspace\\手机管家\\build\\intermediates\\res\\merged\\debug\\layout\\layout_setting_list.xml",
+        "source": "E:\\Android Studio\\workspace\\手机管家\\src\\main\\res\\layout\\layout_setting_list.xml"
+    }
+]

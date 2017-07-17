@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/azy170331/azy170331.iml" filepath="$PROJECT_DIR$/azy170331/azy170331.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baidulocal/baidulocal.iml" filepath="$PROJECT_DIR$/baidulocal/baidulocal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baidumap/baidumap.iml" filepath="$PROJECT_DIR$/baidumap/baidumap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/butterknife/butterknife.iml" filepath="$PROJECT_DIR$/butterknife/butterknife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demotoolbar/demotoolbar.iml" filepath="$PROJECT_DIR$/demotoolbar/demotoolbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easyshop/easyshop.iml" filepath="$PROJECT_DIR$/easyshop/easyshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hellogirl/hellogirl.iml" filepath="$PROJECT_DIR$/hellogirl/hellogirl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login170327_2/login170327_2.iml" filepath="$PROJECT_DIR$/login170327_2/login170327_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvp_20170628/mvp_20170628.iml" filepath="$PROJECT_DIR$/mvp_20170628/mvp_20170628.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysqlite/mysqlite.iml" filepath="$PROJECT_DIR$/mysqlite/mysqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytest/mytest.iml" filepath="$PROJECT_DIR$/mytest/mytest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newsapp_zhuoxin/newsapp_zhuoxin.iml" filepath="$PROJECT_DIR$/newsapp_zhuoxin/newsapp_zhuoxin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testservice/testservice.iml" filepath="$PROJECT_DIR$/testservice/testservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videozhuoxin/videozhuoxin.iml" filepath="$PROJECT_DIR$/videozhuoxin/videozhuoxin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixinface/weixinface.iml" filepath="$PROJECT_DIR$/weixinface/weixinface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wintersweet170329/wintersweet170329.iml" filepath="$PROJECT_DIR$/wintersweet170329/wintersweet170329.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspace.iml" filepath="$PROJECT_DIR$/workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yitao_zhuoxin/yitao_zhuoxin.iml" filepath="$PROJECT_DIR$/yitao_zhuoxin/yitao_zhuoxin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/手机管家/手机管家.iml" filepath="$PROJECT_DIR$/手机管家/手机管家.iml" />
+    </modules>
+  </component>
+</project>

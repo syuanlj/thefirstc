@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Azy170331</string>
+    <string name="title_activity_logo">LogoActivity</string>
+
+    <string name="main_speedup">Speed go</string>
+    <string name="main_softmgr">software management</string>
+    <string name="main_phonemgr">Device Diagnostics</string>
+    <string name="main_telmgr">communication</string>
+    <string name="main_filemgr">file management</string>
+    <string name="main_sdclean">CCleaner</string>
+
+    <string name="setting_start">start</string>
+    <string name="setting_notification_manager">notification_manager</string>
+    <string name="setting_push_notification">push_notification</string>
+    <string name="setting_helptext">helptext</string>
+    <string name="setting_suggestions">suggestions</string>
+    <string name="setting_friends_share">friends_share</string>
+    <string name="setting_updates">updates</string>
+    <string name="setting_about_us">about_us</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bg_slidingmenu_left"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/left_menu_tv_news"
+        style="@style/LeftMenuTV"
+        android:drawableLeft="@mipmap/biz_navigation_tab_news"
+        android:text="@string/left_menu_news" />
+
+    <TextView
+        android:id="@+id/left_menu_tv_read"
+        style="@style/LeftMenuTV"
+        android:drawableLeft="@mipmap/biz_navigation_tab_read"
+        android:text="@string/left_menu_read" />
+
+    <TextView
+        android:id="@+id/left_menu_tv_local"
+        style="@style/LeftMenuTV"
+        android:drawableLeft="@mipmap/biz_navigation_tab_local_news"
+        android:text="@string/left_menu_local" />
+
+    <TextView
+        android:id="@+id/left_menu_tv_ties"
+        style="@style/LeftMenuTV"
+        android:drawableLeft="@mipmap/biz_navigation_tab_ties"
+        android:text="@string/left_menu_ties" />
+
+    <TextView
+        android:id="@+id/left_menu_tv_pics"
+        style="@style/LeftMenuTV"
+        android:drawableLeft="@mipmap/biz_navigation_tab_pics"
+        android:text="@string/left_menu_pics" />
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+</LinearLayout>

@@ -5,6 +5,7 @@ import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.Paint;
 import android.support.v7.widget.RecyclerView;
+import android.support.v7.widget.StaggeredGridLayoutManager;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -74,9 +75,9 @@ public class VideoAdapter extends RecyclerView.Adapter<VideoAdapter.MyViewHolder
             holder.tv_play.setText("play:"+info.getPlays_count());
             LoadImage.loadImage(context, info.getAvater(), holder.iv_avatar);
             LoadImage.loadImage(context, info.getCover_pic(), holder.iv_pic);
-            ViewGroup.LayoutParams layoutParams=holder.itemView.getLayoutParams();
-            layoutParams.height= LinearLayout.LayoutParams.WRAP_CONTENT;
-//            holder.iv_pic.setAdjustViewBounds(true);
+//            ViewGroup.LayoutParams layoutParams=holder.itemView.getLayoutParams();
+//            layoutParams.height= LinearLayout.LayoutParams.WRAP_CONTENT;
+            holder.iv_pic.setAdjustViewBounds(true);
 //            int width = holder.iv_pic.getWidth();
 //            ViewGroup.LayoutParams params = holder.iv_pic.getLayoutParams();
 //            //设置图片的相对于屏幕的宽高比
@@ -89,6 +90,19 @@ public class VideoAdapter extends RecyclerView.Adapter<VideoAdapter.MyViewHolder
     @Override
     public int getItemCount() {
         return list.size();
+    }
+
+    @Override
+    public void onViewAttachedToWindow(MyViewHolder holder) {
+        super.onViewAttachedToWindow(holder);
+        ViewGroup.LayoutParams lp = holder.itemView.getLayoutParams();
+        if (lp != null
+                && lp instanceof StaggeredGridLayoutManager.LayoutParams
+                && holder.getLayoutPosition() == 0) {
+            StaggeredGridLayoutManager.LayoutParams p = (StaggeredGridLayoutManager.LayoutParams) lp;
+            p.setFullSpan(true);
+        }
+
     }
 
     //viewhold优化

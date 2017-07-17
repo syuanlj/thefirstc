@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.Syuan.azy170331">
+
+    <!-- 拨打电话权限 -->
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <!-- 读取电话状态权限 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 杀死后台进程 -->
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+    <!-- 读取设备外部存储空间 -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!-- 读取设备内部存储空间 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 粘性广播 -->
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+    <!-- 获取WIFI权限 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 蓝牙权限 -->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <!-- 获取相机权限 -->
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activitis.activitis.LeadActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activitis.activitis.LogoActivity" />
+        <activity android:name=".activitis.activitis.MainActivity" />
+        <!-- <activity android:name=".activitis.test.TestActivity"/> -->
+        <!-- <activity android:name=".activitis.test.Test2Activity"></activity> -->
+        <activity android:name=".activitis.activitis.AboutUsActivity" />
+        <activity android:name=".activitis.activitis.SettingActivity" />
+        <!-- <activity android:name=".activitis.test.BroadcastActivity"/> -->
+
+        <receiver android:name=".activitis.test.BroadcastReceiver3">
+            <intent-filter>
+                <action android:name="com.Syuan.azy170331" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name=".activitis.activitis.AllSoftwareActivity" />
+        <activity android:name=".activitis.activitis.SpeedUpActivity" />
+        <activity android:name=".activitis.activitis.SoftManagerActivity" />
+        <activity android:name=".activitis.activitis.PhoneDetectionActivity" />
+        <activity android:name=".activitis.activitis.CommunicationActivity" />
+        <activity android:name=".activitis.activitis.FileManagerActivity" />
+        <activity android:name=".activitis.activitis.GarbageCollectionActivity" />
+        <activity android:name=".activitis.test.DialogActivity" />
+        <activity android:name=".activitis.test.SQLiteActivity" />
+        <activity android:name=".activitis.activitis.CommunicationNumberActivity" />
+        <activity android:name=".activitis.activitis.File2Activity"/>
+    </application>
+
+</manifest>
